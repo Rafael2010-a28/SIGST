@@ -1,0 +1,116 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(1, 17, 33);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+#foto2{
+    display: flex;
+    flex-direction: center;
+    padding-left: 40px;
+}
+
+#sigst{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    padding-left: 20px;
+    background-color: rgb(1, 5, 19);
+}
+
+#nome1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+}
+
+#nome2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 208, 255);
+    display: flex;
+    flex-direction: center;
+    padding-left: 90px;
+}
+
+#t1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: 20px;
+}
+#t2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: 20px;
+}
+#t3{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: 20px;
+}
+#t4{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: 20px;
+}
+#t5{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: 20px;
+}
+
+#botao{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.rodape{
+  font-size: 12px;   
+  color: #6b7480;     
+  text-align: center;
+  padding-top: 10px 0;
+  letter-spacing: 0.2px;
+}
+
+input{
+    width: 500px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    border: solid;
+    border-width: 5px;
+    border-color: 	rgb(29, 43, 57);
+    border-radius: 8px;
+    background-color: rgb(54, 66, 79);
+
+    font-family: "Poppins", Arial, sans-serif;
+    color: #ffffff;  
+    opacity: 1;       
+}
+
+button{
+    width: 300px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    border: solid;
+    border-width: 10px;
+    border-color: 	rgb(29, 43, 57);
+    border-radius: 15px;
+    background-color: rgb(54, 66, 79);
+
+    font-family: "Poppins", Arial, sans-serif;
+    color: #9c9c9cc0;  
+    opacity: 1;    
+}
